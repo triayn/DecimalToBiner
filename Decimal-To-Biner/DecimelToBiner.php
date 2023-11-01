@@ -18,7 +18,7 @@
 <body>
     <div id="box">
         <header>
-            <label for="">Konversi Desimal Ke Diner - Tria</label>
+            <label for="">Konversi Desimal Ke Diner</label>
         </header>
         <main>
             <form action="">
@@ -32,9 +32,9 @@
                         <label for="" class="form-label">Angka Biner</label>
                         <input type="text" class="form-control" id="" placeholder="Hasil">
                     </div><br>
-                </div>
+                </div><br>
                 <div>
-                    <button type="submit" class="btn btn-hitung">Hitung</button>
+                    <button type="submit">Hitung</button>
                 </div>
             </form>
         </main>
