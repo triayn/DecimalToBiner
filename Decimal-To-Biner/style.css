@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 18px;
+    background-color: #F2E8C6;
+}
+#box {
+    margin: auto;
+    margin-top: 5%;
+    width: 900px;
+    border-radius: 10px;
+    box-shadow: 0 0 3em #A73121;
+}
+header {
+    padding: 30px;
+    background: #952323;
+    color: #F2E8C6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+main {
+    height: 100%;
+    margin-left: 2%;
+    background: #F2E8C6;
+    /* border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; */
+    overflow: auto;
+}
+main button {
+    font-size: 1.3em;
+    font-family: 'Signika Negative', sans-serif;
+    float: left;
+    width: 25%;
+    border: 0;
+    padding: 1em;
+    cursor: pointer;
+    background: #952323;
+}
+label {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1.3em;
+}
+input {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1em;
+    width: 25%;
+}
+button {
+    background-color: #952323; 
+    border-radius: 4px;
+    padding: 10px 24px;
+    color: #F2E8C6;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn-hasil {
+    border-radius: 2px;
+}
